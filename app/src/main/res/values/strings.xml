@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Espectro de Diseño (NEC 2015)</string>
+    <string-array name="coeficientect">
+        <item>Estructuras de acero</item>
+        <item>Porticos especiales de hormigon armado</item>
+    </string-array>
+
+    <string-array name="array_estructura">
+        <item>Sin arriostramientos</item>
+        <item>Con arriostramientos</item>
+    </string-array>
+    <string-array name="array_portico">
+        <item>Sin muros estructurales ni diagonales rigidizadoras</item>
+        <item>Con muros estructurales o diagonales rigidizadoras y para otras estructuras basadas en muros estructurales y mamposteria estructural</item>
+    </string-array>
+    <string-array name="configuracion">
+        <item>Configuraciones estructurales recomendadas</item>
+        <item>Configuraciones estructurales no recomendadas</item>
+    </string-array>
+    <string-array name="coeficienteR">
+        <item>Sistemas Estructurales Dúctiles</item>
+        <item>Sistemas Estructurales de Ductibilidad Limitada</item>
+    </string-array>
+    <string-array name="categoriaRd">
+        <item>Sistemas Duales</item>
+        <item>Pórticos resistentes a momentos</item>
+        <item>Otros sistemas estructurales para edificaciones</item>
+    </string-array>
+    <string-array name="categoriaRdi">
+        <item>Pórticos resistentes a momento</item>
+        <item>Muros estructurales portantes</item>
+    </string-array>
+    <string-array name="sistemasDuales">
+        <item>Pórticos especiales sismo resistentes, de hormigón armado con vigas descolgadas y con muros estructurales de hormigón armado o con diagonales rigidizadoras (sistemas duales).</item>
+        <item>Pórticos especiales sismo resistentes de acero laminado en caliente, sea con diagonales rigidizadoras (excéntricas o concéntricas) o con muros estructurales de hormigon armado.</item>
+        <item>Pórticos con con columnas de hormigón armado y vigas de acero laminado en caliente con diagonales ridigizadoras (excéntricas o concéntricas).</item>
+        <item>COEFICIENTE R</item>
+    </string-array>
+    <string-array name="porticosResistentes">
+        <item>Pórticos especiales sismo resistentes, de hormigón armado con vigas descolgadas.</item>
+        <item>Pórticos especiales sismo resistentes , de acero laminado en caliente o con elementos armados de placas</item>
+        <item>Pórticos con columnas de hormigón armado y vigas de acero laminado en caliente</item>
+    </string-array>
+    <string-array name="otrosSistemas">
+        <item>Sistemas de muros estructurales dúctiles de hormigón armado.</item>
+        <item>Pórticos especiales sismo resistente de hormigón armado con vigas banda.</item>
+    </string-array>
+    <string-array name="porticoResistente">
+        <item>Hormigón armado con secciones de dimensión menor a la especificada en la NEC-SE-HM limitados a viviendas de hasta 2 pisos con luces de hasta 5 metros.</item>
+        <item>Hormigón armado con secciones de dimensión menor a la especificada en la NEC-SE-HM con armadura electrosoldada de alta resistencia.</item>
+        <item>Estructuras de acero conformado en frio, aluminio, madera, limitados a 2 pisos.</item>
+    </string-array>
+    <string-array name="muros">
+        <item>Mamposteria no reforzada, limitada a un piso</item>
+        <item>Mamposteria reforzada, limitada a dos pisos</item>
+        <item>Mamposteria confinada, limitada a dos pisos</item>
+        <item>Muros de hormigón armado, limitados a cuatro pisos</item>
+    </string-array>
+
+
+</resources>

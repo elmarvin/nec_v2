@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/356f11ead0aa8c3c84b538c8e1045796dc74334c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66148543039fc1b538b8dd8440e36555729c13a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/9982326bb760fa8ecd1603a20152bfb68979ed97/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5865adae1e7478f7a008610cfee07f61377f502/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72b00bd8dbbb80673ba8aee3401c416f397cd993">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c21b2917c57a4989d92fad6009bba1e2e13bcc6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/9982326bb760fa8ecd1603a20152bfb68979ed97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/classes_a5865adae1e7478f7a008610cfee07f61377f502.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/55abe66e986424baafeb890cef4d87469fef948e/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d9910ff9543106b7fef4ab179c1703dd3c518ee3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/55abe66e986424baafeb890cef4d87469fef948e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfc560a7e5e356a4de708ca0ad92aac5b7066fd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/356f11ead0aa8c3c84b538c8e1045796dc74334c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/classes_66148543039fc1b538b8dd8440e36555729c13a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/55abe66e986424baafeb890cef4d87469fef948e/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d9910ff9543106b7fef4ab179c1703dd3c518ee3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/c97616ca6f62e3c5d7a8102250435c8f9fc73baa/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_514c68503c7f63ff1ed1de6825840e2a0c9ba4f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/b855d8b75a8653cf98de8674f9ebcbb214ee1440/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12fdadebe9c11de685613e9fd8e69a39f6fa4c91">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6875fad2a84baddb84a918cf2f877b4d9314ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/c97616ca6f62e3c5d7a8102250435c8f9fc73baa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/classes_e0dfebc3432199c15ec213a88a74f799c3eb2c38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/c97616ca6f62e3c5d7a8102250435c8f9fc73baa/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_514c68503c7f63ff1ed1de6825840e2a0c9ba4f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/b855d8b75a8653cf98de8674f9ebcbb214ee1440/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12fdadebe9c11de685613e9fd8e69a39f6fa4c91">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/classes_f6875fad2a84baddb84a918cf2f877b4d9314ba3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/Programas/Andriod/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_d42a261dc7faf28147dbaca543bdabc1124f6106/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.2.4/7abd1ecef320da6a7679b137083151401fe8bf43/MPAndroidChart-v2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.2.4_5cc873767c55cc1ff4c7e59d061e809e9abeb89a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.2.4/7abd1ecef320da6a7679b137083151401fe8bf43/MPAndroidChart-v2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v2.2.4_5cc873767c55cc1ff4c7e59d061e809e9abeb89a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/Programas/Andriod/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_d42a261dc7faf28147dbaca543bdabc1124f6106.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/c97616ca6f62e3c5d7a8102250435c8f9fc73baa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0dfebc3432199c15ec213a88a74f799c3eb2c38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/9fe8f97eb494beae3b3be728ee00f891fecbda33/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_828b5df017c459e9b789c9beec7550b82643d5a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/885cdfc89b1333be5bf5759812b6a6a20bfb2ccc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_49ffe47ccfe81c62eb8878b7e4b7a2ab7659480d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_edeb37f5a63665b35350578cb340ab7c49462cd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/052d71ad6fd9c36609b8829143793f78d206cf82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/classes_831a60bbdca4d2c1a8136b2649240ec58b1f7d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/9fe8f97eb494beae3b3be728ee00f891fecbda33/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_828b5df017c459e9b789c9beec7550b82643d5a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/885cdfc89b1333be5bf5759812b6a6a20bfb2ccc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/classes_49ffe47ccfe81c62eb8878b7e4b7a2ab7659480d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/f564c8b0924561e8c58b13b67b55c0a364f0cd44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cdeb59cdbcb554599b186502c8afba44e5f12d9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/052d71ad6fd9c36609b8829143793f78d206cf82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_831a60bbdca4d2c1a8136b2649240ec58b1f7d19/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/f564c8b0924561e8c58b13b67b55c0a364f0cd44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/classes_cdeb59cdbcb554599b186502c8afba44e5f12d9a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/356f11ead0aa8c3c84b538c8e1045796dc74334c/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_84a4f12e628575d0171f4404839f0daf28799949/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/356f11ead0aa8c3c84b538c8e1045796dc74334c/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_84a4f12e628575d0171f4404839f0daf28799949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/9fe8f97eb494beae3b3be728ee00f891fecbda33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/classes_d152af5522c83a702ddd3ef4f0e27581a9c3891e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/55abe66e986424baafeb890cef4d87469fef948e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/classes_dfc560a7e5e356a4de708ca0ad92aac5b7066fd1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/9fe8f97eb494beae3b3be728ee00f891fecbda33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d152af5522c83a702ddd3ef4f0e27581a9c3891e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/f564c8b0924561e8c58b13b67b55c0a364f0cd44/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_155bbe9e50214da7e1e434fa4c9abd717a2acd01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/elmarvin/.android/build-cache/a36963a3b5280b826e3a8b7d4e880ca829f14408/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef60ad79cc9aa71a5cdee6e58e22800be39eca14/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/a36963a3b5280b826e3a8b7d4e880ca829f14408/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/classes_ef60ad79cc9aa71a5cdee6e58e22800be39eca14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/elmarvin/.android/build-cache/f564c8b0924561e8c58b13b67b55c0a364f0cd44/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/elmarvin/Codigo/Android/INEC2015/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_155bbe9e50214da7e1e434fa4c9abd717a2acd01.jar" />
+    </item>
+
+</items>

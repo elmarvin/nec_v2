@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+
+</resources>

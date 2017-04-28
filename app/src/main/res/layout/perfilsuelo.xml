@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.pedro.inec2015.MainActivityPerfilSuelo">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Tipo de perfil de suelo"
+        android:id="@+id/tv1"
+        />
+
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/myRadioGroup"
+        android:layout_below="@+id/tv1"
+        >
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rdbA"
+            android:text="A" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rdbB"
+            android:text="B" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rdbC"
+            android:text="C" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rdbD"
+            android:text="D"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rdbE"
+            android:text="E"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rdbF"
+            android:text="F"/>
+
+    </RadioGroup>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aceptar"
+        android:id="@+id/btnAceptarTS"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="133dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/tv1"
+        android:layout_alignEnd="@+id/tv1"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ningun elemento seleccionado."
+        android:id="@+id/tvTipoSuelo"
+        android:gravity="left"
+        android:layout_below="@+id/tv1"
+        android:layout_toRightOf="@+id/myRadioGroup"
+        android:layout_toEndOf="@+id/myRadioGroup"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp" />
+
+</RelativeLayout>
